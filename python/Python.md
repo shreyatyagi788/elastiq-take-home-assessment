@@ -15,9 +15,8 @@ Develop a Python web application to detect the sentiment of movie reviews. The a
 1. **GitHub Repository:** Complete running solution uploaded to your repository.
 2. **README:** A concise document explaining:
    - Implementation approach
-   - Steps to run the application
+   - Steps to run/test the application, any credentials, ip, url etc
    - Additional setup instructions (if any)
-3. **Test Cases:** Use Python's `pytest` for backend testing.
 
 ## Guidelines
 - **Environment Setup:** Ensure compatibility with the latest stable library versions. Follow best coding practices.
@@ -31,3 +30,11 @@ Develop a Python web application to detect the sentiment of movie reviews. The a
 
 ### Architecture & Sample Web Interface
 Feel free to deliver your own way of this UX but make sure these two simple features are there in your app.
+
+![App Architecture](AppArchitecture.png)
+
+![Sentiment Analysis](UXScreen1.png)
+
+![List of Sentiment Analyzed](UXScreen2.png)
+
+# **Good Luck!**
