@@ -4,7 +4,7 @@
 Develop a Python web application to detect the sentiment of movie reviews. The app should include a ReactJS-based frontend that calls a FastAPI Python backend, which utilizes a local/free LLM model for sentiment analysis. Additionally, the app must store reviews and their sentiments in an SQLite database and provide a sortable, filterable table interface to display the reviews.
 
 ## Tech Stack Requirements
-- **GenAI:** Utilize a locally hosted LLM (e.g., [Ollama](https://ollama.com/) or any publicly available free LLM API.
+- **GenAI:** Utilize a locally hosted LLM (e.g., [Ollama](https://ollama.com/) or any publicly available free LLM API)
 - **Frontend:** ReactJS
 - **Backend:** FastAPI (Python)
 - **Database:** SQLite for review storage
