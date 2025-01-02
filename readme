@@ -1,0 +1,17 @@
+# Selenium Table Search Demo Automation Test
+
+This repository contains an automated test for the **Selenium Playground Table Search Demo**. The test is written using Python's `Selenium` and `pytest` frameworks.
+
+## Test Overview
+
+The test performs the following steps:
+1. Navigates to the **Table Search Demo** page of Selenium Playground.
+2. Searches for the term **"New York"** in the search box.
+3. Verifies that **5 entries** are displayed out of **24 total entries**.
+
+## Prerequisites
+
+1. **Python 3.x**: Download and install from [python.org](https://www.python.org/).
+2. **Selenium**: Install via pip using the command:
+   ```bash
+   pip install selenium
