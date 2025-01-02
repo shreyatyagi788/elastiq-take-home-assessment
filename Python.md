@@ -29,4 +29,5 @@ Develop a Python web application to detect the sentiment of movie reviews. The a
 > - Use a clean, modular architecture for your code.
 > - Include proper comments and documentation where necessary.
 
-**Good Luck!**
+### Architecture & Sample Web Interface
+Feel free to deliver your own way of this UX but make sure these two simple features are there in your app.
