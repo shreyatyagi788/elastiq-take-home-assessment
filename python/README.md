@@ -25,9 +25,9 @@ Develop a Python web application to detect the sentiment of movie reviews. The a
 - **Code Quality:** Adhere to PEP8 standards for Python code.
 
 ## Notes
-> **Good to Know:**
+> - Feel free to use any public cloud provider from AWS, GCP, or Azure.
 > - Use a clean, modular architecture for your code.
-> - Include proper comments and documentation where necessary.
+> - Include proper code comments and documentation where necessary.
 
 ### App Architecture
 ![App Architecture](AppArchitecture.png)
