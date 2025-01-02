@@ -15,3 +15,8 @@ The test performs the following steps:
 2. **Selenium**: Install via pip using the command:
    ```bash
    pip install selenium
+3.**ChromeDriver**: Download the correct version of ChromeDriver based on your version of Google Chrome, and place it in the same directory as the script or specify its path in the code.
+4.**pytest**: Install pytest using pip:
+```bash
+pip install pytest
+
