@@ -30,15 +30,15 @@ Develop a Python web application to detect the sentiment of movie reviews. The a
 > - Include proper comments and documentation where necessary.
 
 ### Architecture & Sample Web Interface
-Feel free to deliver your own way of this UX but make sure these two simple features are there in your app.
-
 **App Architecture**
 ![App Architecture](AppArchitecture.png)
 
-**Sentiment Analysis** (UI-1)
+**UI/UX Mockups:** Feel free to deliver your own way of this UX but make sure these two simple features are there in your app.
+
+1. **Sentiment Analysis** (UI-1)
 ![Sentiment Analysis](UXScreen1.png)
 
-**List of Sentiment Analyzed** (UI-2)
+1. **List of Sentiment Analyzed** (UI-2)
 ![List of Sentiment Analyzed](UXScreen2.png)
 
 # **Good Luck!**
